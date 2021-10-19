@@ -13,8 +13,8 @@ using the [Processing](https://processing.org/) language.
 
 Over the following three years I created a companion video course for the book.
 The course contains 231 videos that offer a bit under 35 hours of clear, illustrated
-instruction on everything from how to use the Processing language to how to write
-complete, interactive art pieces and games.
+instruction. I don't assume you know anything about programming, or building interactive
+programs. We cover everything up to and including how to write complete, interactive art pieces and games.
 
 I offered the course as a commercial product for many years, but I've now decided to
 make it available entirely for free on YouTube.
