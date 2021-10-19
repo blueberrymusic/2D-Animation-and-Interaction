@@ -46,8 +46,8 @@ or performance issues.
 
 Please don't send me bug reports; I just don't have the time to manage, fix, and
 maintain this code. It's free, after all! If you find an error, and you
-have fixed it yourself, you can send me a pull request. Or you can fork the repo
-and update everything, or otherwise do with the code as you will.
+have fixed it yourself, feel free fork the repo and make your changes, 
+or otherwise do with the code as you will.
 
 I'm offering everything here for free, and as-is. I don't guarantee that the programs
 are free of errors, and I don't assert that they're fit for any application. They're
