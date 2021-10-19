@@ -24,10 +24,6 @@ There are also about 360 sketches, or Processing programs, each identified by th
 video it's used in. These sketches demonstrate the techniques being discussed,
 and also show how I made the visuals used in every video.
 
-I'm offering everything here for free, and as-is. I don't guarantee that the programs
-are free of errors, and I don't assert that they're fit for any application. They're
-offered here as educational reference resources only.
-
 The programs were written for Processing 1.2. The current version is Processing 2.
 I believe that the programs all run, but some may not, or there may be compaitbility
 or performance issues. 
@@ -35,6 +31,10 @@ or performance issues.
 **I am not actively supporting any of these programs.** If you find an error, and you
 have fixed it yourself, you can send me a pull request. Or you can fork the repo
 and update everything, or otherwise do with the code as you will.
+
+I'm offering everything here for free, and as-is. I don't guarantee that the programs
+are free of errors, and I don't assert that they're fit for any application. They're
+offered here as educational reference resources only.
 
 Below is the legal way of saying the previous paragraph.
 
