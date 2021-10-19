@@ -71,7 +71,7 @@ I am happy with how these videos address the fundamentals of creative coding
 and Processing itself, and I hope they will help lots of new people
 discover the pleasures of making interactive art.
 Since I don't have the time to actively run the course any more,
-I am very happy to offer you the videos and programs for free.
+I am happy to offer you the videos and programs for free.
 
 I hope you enjoy them, learn from them, and create amazing and
 wonderful work!
