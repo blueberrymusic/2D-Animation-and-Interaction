@@ -42,7 +42,7 @@ The programs were written for Processing 1.2. The current version is Processing 
 I believe that the programs all run, but some may not, or there may be compaitbility
 or performance issues. 
 
-## I am not actively supporting any of these programs.
+## I am not actively supporting these programs
 
 Please don't send me bug reports; I just don't have the time to manage, fix, and
 maintain this code. It's free, after all! If you find an error, and you
