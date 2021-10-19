@@ -28,7 +28,10 @@ The programs were written for Processing 1.2. The current version is Processing 
 I believe that the programs all run, but some may not, or there may be compaitbility
 or performance issues. 
 
-**I am not actively supporting any of these programs.** If you find an error, and you
+**I am not actively supporting any of these programs.** 
+
+Please don't send me bug reports; I just don't have the time to manage, fix, and
+maintain this code. It's free, after all! If you find an error, and you
 have fixed it yourself, you can send me a pull request. Or you can fork the repo
 and update everything, or otherwise do with the code as you will.
 
