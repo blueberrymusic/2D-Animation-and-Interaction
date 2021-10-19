@@ -15,7 +15,7 @@ Over the following three years I created a companion video course for the book.
 The course contains 231 videos that offer a bit under 35 hours of clear, illustrated
 instruction. I don't assume you know anything about programming, or building interactive
 programs. We cover everything up to and including how to write complete, interactive art pieces and games.
-The course was a lot of fun and students produced some amazing work!
+The course was a lot of fun and students produced many incredible projects!
 
 I offered the course as a commercial product for many years, but I don't currently
 have the time to maintain it, so I've decided to
