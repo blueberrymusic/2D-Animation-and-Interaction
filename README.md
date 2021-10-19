@@ -59,7 +59,18 @@ I'm offering everything here for free, and as-is. I don't guarantee that the pro
 are free of errors, and I don't assert that they're fit for any application. They're
 offered here as educational reference resources only.
 
-### Below is the legal way of saying the previous paragraph.
+These videos were a ton of fun to create, and a lot of people have
+learned from them over the years. 
+I am happy with how they address the fundamentals of creative coding
+and Processing itself, and still do a good job of sharing the pleasure
+of making interactive art.
+Since I don't have the time to actively run the course right now,
+I am very happy to offer these to offer you the videos and programs for free.
+
+I hope you enjoy them, learn from them, and create amazing and
+wonderful work!
+
+### Below is the legal language that lets me give this all away.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this 
 software and associated documentation files (the "Software"), to deal in the Software 
