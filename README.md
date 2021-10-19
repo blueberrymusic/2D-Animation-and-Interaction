@@ -65,11 +65,11 @@ If you change any folder or sketch names,
 remember to change the other name to match.
 
 These videos were a ton of fun to create, 
-and it's been very rewarding to work with many talented
+and it's been great to have worked with so many talented
 and creative students over the years.
 I am happy with how these videos address the fundamentals of creative coding
 and Processing itself, and I hope they will help lots of new people
-discover the pleasure of making interactive art.
+discover the pleasures of making interactive art.
 Since I don't have the time to actively run the course right now,
 I am very happy to offer these to offer you the videos and programs for free.
 
