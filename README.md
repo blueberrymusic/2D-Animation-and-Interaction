@@ -3,6 +3,8 @@
 # 2D Animation and Interaction
 ## A video course by Andrew Glassner
 
+## What This Repo Is About
+
 In August 2010 I published a book to help people learn creative coding with computer graphics.
 The book is called
 [Processing for Visual Artists: How to Create Expressive Images and Interactive Art.](https://www.amazon.com/dp/1568817169)
@@ -16,7 +18,12 @@ complete, interactive art pieces and games.
 
 I offered the course as a commercial product for many years, but I've now decided to
 make it available entirely for free on YouTube.
+
+## Where to Find the Course Videos
+
 You can find the course at [link here.](https://link-here)
+
+## What's in This Repo
 
 In this repo, you'll find 8 zip files, one for each week of the course. In each zip
 file you'll find that week's overview, and a summary of all that we cover.
@@ -24,11 +31,18 @@ There are also about 360 sketches, or Processing programs, each identified by th
 video it's used in. These sketches demonstrate the techniques being discussed,
 and also show how I made the visuals used in every video.
 
+The **Course-Syllabus** offers a detailed guide to every week, every group of 
+videos, and every video. It also identifies which programs, or sketches, are 
+associated with each video. Note that the syllabus sometimes refers to homework;
+now that the course is free, there's no homework, and I won't be reviewing files.
+**Please don't send me programs for critique!** I just don't have the time to 
+review people's code as a free service.
+
 The programs were written for Processing 1.2. The current version is Processing 2.
 I believe that the programs all run, but some may not, or there may be compaitbility
 or performance issues. 
 
-**I am not actively supporting any of these programs.** 
+## I am not actively supporting any of these programs.
 
 Please don't send me bug reports; I just don't have the time to manage, fix, and
 maintain this code. It's free, after all! If you find an error, and you
@@ -39,7 +53,7 @@ I'm offering everything here for free, and as-is. I don't guarantee that the pro
 are free of errors, and I don't assert that they're fit for any application. They're
 offered here as educational reference resources only.
 
-Below is the legal way of saying the previous paragraph.
+### Below is the legal way of saying the previous paragraph.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this 
 software and associated documentation files (the "Software"), to deal in the Software 
