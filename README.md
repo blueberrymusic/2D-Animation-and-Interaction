@@ -15,28 +15,29 @@ Over the following three years I created a companion video course for the book.
 The course contains 231 videos that offer a bit under 35 hours of clear, illustrated
 instruction. I don't assume you know anything about programming, or building interactive
 programs. We cover everything up to and including how to write complete, interactive art pieces and games.
+The course was a lot of fun and students produced some amazing work!
 
-I offered the course as a commercial product for many years, but I've now decided to
-make it available entirely for free on YouTube.
+I offered the course as a commercial product for many years, but I don't currently
+have the time to maintain it, so I've decided to
+make the entire course available entirely for free on YouTube.
 
 ## Where to Find the Course Videos
 
-You can find the course at [link here.](https://link-here)
+Watch all the course videos on the
+[Imaginary Institute channel on YouTube.](https://www.youtube.com/channel/UCYC6pH1kUIReTVzX7TIpvAw)
 
 ## What's in This Repo
 
 In this repo, you'll find 8 zip files, one for each week of the course. In each zip
-file you'll find that week's overview, and a summary of all that we cover.
-There are also about 360 sketches, or Processing programs, each identified by the
+file you'll find two PDFs: that week's overview, and a summary of all that we cover.
+Throughout the zip files are also about 360 sketches, or Processing programs, each identified by the
 video it's used in. These sketches demonstrate the techniques being discussed,
 and also show how I made the visuals used in every video.
 
-The **Course-Syllabus** offers a detailed guide to every week, every group of 
+The **Course-Syllabus** PDF offers a detailed guide to every week, every group of 
 videos, and every video. It also identifies which programs, or sketches, are 
 associated with each video. Note that the syllabus sometimes refers to homework;
 now that the course is free, there's no homework, and I won't be reviewing files.
-**Please don't send me programs for critique!** I just don't have the time to 
-review people's code as a free service.
 
 The programs were written for the Java version of Processing 1.2. 
 Processing is now up to version 2, and there's a Javascript version as well.
@@ -53,13 +54,6 @@ that has the same name as the sketch itself,
 as in these zip files.
 If you change any folder or sketch names,
 remember to change the other name to match.
-
-## I am not actively supporting these programs
-
-Please don't send me bug reports; I just don't have the time to manage, fix, and
-maintain this code. It's free, after all! If you find an error, and you
-have fixed it yourself, feel free fork the repo and make your changes, 
-or otherwise do with the code as you will.
 
 I'm offering everything here for free, and as-is. I don't guarantee that the programs
 are free of errors, and I don't assert that they're fit for any application. They're
