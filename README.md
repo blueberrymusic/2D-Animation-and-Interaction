@@ -29,7 +29,8 @@ Watch all the course videos on the
 ## What's in This Repo
 
 In this repo, you'll find 8 zip files, one for each week of the course. In each zip
-file you'll find two PDFs: that week's overview, and a summary of all that we cover.
+file you'll find two PDFs: an overview for that week,
+and then a concluding summary of all that we covered.
 Throughout the zip files are also about 360 sketches, or Processing programs, each identified by the
 video it's used in. These sketches demonstrate the techniques being discussed,
 and also show how I made the visuals used in every video.
