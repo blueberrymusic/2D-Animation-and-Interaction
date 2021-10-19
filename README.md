@@ -38,9 +38,15 @@ now that the course is free, there's no homework, and I won't be reviewing files
 **Please don't send me programs for critique!** I just don't have the time to 
 review people's code as a free service.
 
-The programs were written for Processing 1.2. The current version is Processing 2.
+The programs were written for the Java version of Processing 1.2. 
+Processing is now up to version 2, and there's a Javascript version as well.
+This course only addresses the Java version, using code developed in Processing's
+own coding environment. 
 I believe that the programs all run, but some may not, or there may be compaitbility
 or performance issues. 
+If you prefer the Javascript environment,
+I think that most of these programs can be ported
+over to Javascript in a more or less direct way.
 
 ## I am not actively supporting these programs
 
