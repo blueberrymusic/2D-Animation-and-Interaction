@@ -48,6 +48,12 @@ If you prefer the Javascript environment,
 I think that most of these programs can be ported
 over to Javascript in a more or less direct way.
 
+Note that Processing requires each sketch to reside in its own folder 
+that has the same name as the sketch itself, 
+as in these zip files.
+If you change any folder or sketch names,
+remember to change the other name to match.
+
 ## I am not actively supporting these programs
 
 Please don't send me bug reports; I just don't have the time to manage, fix, and
