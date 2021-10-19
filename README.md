@@ -1,4 +1,7 @@
-# 2D-Animation-and-Interaction
+# Creative Coding Handouts and Sketches
+
+# 2D Animation and Interaction
+## A video course by Andrew Glassner
 
 In August 2010 I published a book to help people learn creative coding with computer graphics.
 The book is called
@@ -13,6 +16,7 @@ complete, interactive art pieces and games.
 
 I offered the course as a commercial product for many years, but I've now decided to
 make it available entirely for free on YouTube.
+You can find the course at [link here.](https://link-here)
 
 In this repo, you'll find 8 zip files, one for each week of the course. In each zip
 file you'll find that week's overview, and a summary of all that we cover.
