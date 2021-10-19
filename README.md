@@ -46,7 +46,7 @@ and also show how I made the visuals used in every video.
 The **Course-Syllabus** PDF offers a detailed guide to every week, every group of 
 videos, every video, and every Processing sketch. 
 Note that the syllabus sometimes refers to homework;
-now that the course is free, there's no homework, and I won't be reviewing files.
+now that the course is free, there's no homework, and I won't be reviewing programs.
 
 The programs were written for the Java version of Processing 1.2. 
 Processing is now up to version 2, and there's a Javascript version as well.
